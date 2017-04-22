@@ -1,0 +1,3361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Untitled map</name>
+    <description/>
+    <Style id="icon-503-0BA9CC-normal">
+      <IconStyle>
+        <color>ffcca90b</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-0BA9CC-highlight">
+      <IconStyle>
+        <color>ffcca90b</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-0BA9CC">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-0BA9CC-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-0BA9CC-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-795046-normal">
+      <IconStyle>
+        <color>ff465079</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-795046-highlight">
+      <IconStyle>
+        <color>ff465079</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-795046">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-795046-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-795046-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-7C3592-normal">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-7C3592-highlight">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-7C3592">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-7C3592-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-7C3592-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-7CCFA9-normal">
+      <IconStyle>
+        <color>ffa9cf7c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-7CCFA9-highlight">
+      <IconStyle>
+        <color>ffa9cf7c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-7CCFA9">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-7CCFA9-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-7CCFA9-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-93D7E8-normal">
+      <IconStyle>
+        <color>ffe8d793</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-93D7E8-highlight">
+      <IconStyle>
+        <color>ffe8d793</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-93D7E8">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-93D7E8-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-93D7E8-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-A61B4A-normal">
+      <IconStyle>
+        <color>ff4a1ba6</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-A61B4A-highlight">
+      <IconStyle>
+        <color>ff4a1ba6</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-A61B4A">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-A61B4A-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-A61B4A-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-B29189-normal">
+      <IconStyle>
+        <color>ff8991b2</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-B29189-highlight">
+      <IconStyle>
+        <color>ff8991b2</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-B29189">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-B29189-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-B29189-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-C6A4CF-normal">
+      <IconStyle>
+        <color>ffcfa4c6</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-C6A4CF-highlight">
+      <IconStyle>
+        <color>ffcfa4c6</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-C6A4CF">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-C6A4CF-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-C6A4CF-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-E6EEA3-normal">
+      <IconStyle>
+        <color>ffa3eee6</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-E6EEA3-highlight">
+      <IconStyle>
+        <color>ffa3eee6</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-E6EEA3">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-E6EEA3-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-E6EEA3-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-EE9C96-normal">
+      <IconStyle>
+        <color>ff969cee</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-EE9C96-highlight">
+      <IconStyle>
+        <color>ff969cee</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-EE9C96">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-EE9C96-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-EE9C96-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-F4B400-normal">
+      <IconStyle>
+        <color>ff00b4f4</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-F4B400-highlight">
+      <IconStyle>
+        <color>ff00b4f4</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-F4B400">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-F4B400-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-F4B400-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-F4EB37-normal">
+      <IconStyle>
+        <color>ff37ebf4</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-F4EB37-highlight">
+      <IconStyle>
+        <color>ff37ebf4</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-F4EB37">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-F4EB37-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-F4EB37-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-F8971B-normal">
+      <IconStyle>
+        <color>ff1b97f8</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-F8971B-highlight">
+      <IconStyle>
+        <color>ff1b97f8</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-F8971B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-F8971B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-F8971B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-FAD199-normal">
+      <IconStyle>
+        <color>ff99d1fa</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-FAD199-highlight">
+      <IconStyle>
+        <color>ff99d1fa</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-FAD199">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-FAD199-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-FAD199-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-FFDD5E-normal">
+      <IconStyle>
+        <color>ff5eddff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-FFDD5E-highlight">
+      <IconStyle>
+        <color>ff5eddff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-FFDD5E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-FFDD5E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-FFDD5E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-FFFFFF-normal">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-FFFFFF-highlight">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-FFFFFF">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-FFFFFF-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-FFFFFF-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Clients_info.xlsx</name>
+      <Placemark>
+        <name>NEW YORK HOSPITAL</name>
+        <address>525 East 68th Street New York NY</address>
+        <description><![CDATA[ID: 1<br>CLIENT: 00000<br>ADDRESS: 525 East 68th Street<br>CITY: New York<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127465454]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>1.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00000</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>525 East 68th Street</value>
+          </Data>
+          <Data name="CITY">
+            <value>New York</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127465454E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>PAYNE WHITNEY</name>
+        <address>420 East 76th Street New York NY</address>
+        <description><![CDATA[ID: 2<br>CLIENT: 00001<br>ADDRESS: 420 East 76th Street<br>CITY: New York<br>state: NY<br>ZIP: 100210000<br>PHONE: 2124345500]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>2.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00001</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>420 East 76th Street</value>
+          </Data>
+          <Data name="CITY">
+            <value>New York</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.1243455E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>01 NYH WESTCHESTER</name>
+        <address>21 Bloomingdale Road White Plains NY</address>
+        <description><![CDATA[ID: 3<br>CLIENT: 00002<br>ADDRESS: 21 Bloomingdale Road<br>CITY: White Plains<br>state: NY<br>ZIP: 106050000<br>PHONE: 9146829100]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>3.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00002</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>21 Bloomingdale Road</value>
+          </Data>
+          <Data name="CITY">
+            <value>White Plains</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0605E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>9.1468291E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>01 NYH MED CTR OF QUEENS</name>
+        <address>56-45 Main Street Flushing NY</address>
+        <description><![CDATA[ID: 5<br>CLIENT: 00004<br>ADDRESS: 56-45 Main Street<br>CITY: Flushing<br>state: NY<br>ZIP: 113550000<br>PHONE: 7186701231]]></description>
+        <styleUrl>#icon-503-FAD199</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>5.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00004</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>56-45 Main Street</value>
+          </Data>
+          <Data name="CITY">
+            <value>Flushing</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.1355E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>7.186701231E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>01 NY METHODIST HOSPITAL</name>
+        <description><![CDATA[ID: 6<br>CLIENT: 00005<br>ADDRESS: 506 6TH STREET PATH.SB200<br>CITY: Brooklyn<br>state: NY<br>ZIP: 112150000<br>PHONE: 7187803634]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>6.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00005</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>506 6TH STREET PATH.SB200</value>
+          </Data>
+          <Data name="CITY">
+            <value>Brooklyn</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.1215E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>7.187803634E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>01 GRACIE SQUARE HOSPITAL</name>
+        <address>420 East 75th Street New York NY</address>
+        <description><![CDATA[ID: 7<br>CLIENT: 00006<br>ADDRESS: 420 East 75th Street<br>CITY: New York<br>state: NY<br>ZIP: 100210000<br>PHONE: 2129884400]]></description>
+        <styleUrl>#icon-503-7CCFA9</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>7.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00006</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>420 East 75th Street</value>
+          </Data>
+          <Data name="CITY">
+            <value>New York</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.1298844E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>01 THE ROGOSIN INSTITUTE</name>
+        <address>505 East 70th Street New York NY</address>
+        <description><![CDATA[ID: 8<br>CLIENT: 00007<br>ADDRESS: 505 East 70th Street<br>CITY: New York<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127461552]]></description>
+        <styleUrl>#icon-503-F4EB37</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>8.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00007</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>505 East 70th Street</value>
+          </Data>
+          <Data name="CITY">
+            <value>New York</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127461552E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>01 UNITED HOSPITAL MED CT</name>
+        <address>406 Boston Post Road Port Chester NY</address>
+        <description><![CDATA[ID: 9<br>CLIENT: 00008<br>ADDRESS: 406 Boston Post Road<br>CITY: Port Chester<br>state: NY<br>ZIP: 105730000<br>PHONE: 9149343000]]></description>
+        <styleUrl>#icon-503-FFDD5E</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>9.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00008</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>406 Boston Post Road</value>
+          </Data>
+          <Data name="CITY">
+            <value>Port Chester</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0573E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>9.149343E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>01 WYCKOFF HEIGHTS MED CT</name>
+        <address>374 STOCKHOLM STREET BROOKLYN NY</address>
+        <description><![CDATA[ID: 10<br>CLIENT: 00009<br>ADDRESS: 374 STOCKHOLM STREET<br>CITY: BROOKLYN<br>state: NY<br>ZIP: 112370000<br>PHONE: 7189637272]]></description>
+        <styleUrl>#icon-503-F8971B</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>10.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00009</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>374 STOCKHOLM STREET</value>
+          </Data>
+          <Data name="CITY">
+            <value>BROOKLYN</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.1237E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>7.189637272E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>MEASE DUNEDIN HOS. INSTIT</name>
+        <description><![CDATA[ID: 11<br>CLIENT: 00010<br>ADDRESS: 601 MAIN STREET PATH DEPT<br>CITY: DUNEDIN<br>state: NY<br>ZIP: 346980000<br>PHONE: 7189637272]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>11.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00010</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>601 MAIN STREET PATH DEPT</value>
+          </Data>
+          <Data name="CITY">
+            <value>DUNEDIN</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>3.4698E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>7.189637272E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>PHARMACOGEN1 NYPH INSTIT.</name>
+        <address>622 WEST 168TH ST PH3-330 NEW YORK NY</address>
+        <description><![CDATA[ID: 12<br>CLIENT: 00011<br>ADDRESS: 622 WEST 168TH ST PH3-330<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100320000<br>PHONE: 2123421420]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>12.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00011</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>622 WEST 168TH ST PH3-330</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0032E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.12342142E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>PSA SCREENING-INSTITUTION</name>
+        <address>525 EAST 68TH STREET F940 NEW YORK NY</address>
+        <description><![CDATA[ID: 13<br>CLIENT: 00012<br>ADDRESS: 525 EAST 68TH STREET F940<br>CITY: NEW YORK<br>state: NY<br>ZIP: 10065<br>PHONE: 2127465491]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>13.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00012</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>525 EAST 68TH STREET F940</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>10065.0</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127465491E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>UNIVERSITY PATHOLOGY</name>
+        <address>4 SKYLINE DRIVE HAWTHORNE NY</address>
+        <description><![CDATA[ID: 14<br>CLIENT: 00013<br>ADDRESS: 4 SKYLINE DRIVE<br>CITY: HAWTHORNE<br>state: NY<br>ZIP: 10532<br>PHONE: 9143453315]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>14.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00013</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>4 SKYLINE DRIVE</value>
+          </Data>
+          <Data name="CITY">
+            <value>HAWTHORNE</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>10532.0</value>
+          </Data>
+          <Data name="PHONE">
+            <value>9.143453315E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>METACURE STUDY-INSTITUTIO</name>
+        <address>1165 YORK AVENUE NEW YORK NY</address>
+        <description><![CDATA[ID: 15<br>CLIENT: 00014<br>ADDRESS: 1165 YORK AVENUE<br>CITY: NEW YORK<br>state: NY<br>ZIP: 10065<br>PHONE: 2127461872]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>15.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00014</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1165 YORK AVENUE</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>10065.0</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127461872E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>NY DOWNTOWN-INSTITUTIONAL</name>
+        <address>170 WILLIAM STREET RM 6A NEW YORK NY</address>
+        <description><![CDATA[ID: 16<br>CLIENT: 00015<br>ADDRESS: 170 WILLIAM STREET RM 6A<br>CITY: NEW YORK<br>state: NY<br>ZIP: 10038<br>PHONE: 2123125268]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>16.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00015</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>170 WILLIAM STREET RM 6A</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>10038.0</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.123125268E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>NYPH COLUMBIA LAB (INST)</name>
+        <address>622 WEST 168TH STREET NEW YORK NY</address>
+        <description><![CDATA[ID: 17<br>CLIENT: 00016<br>ADDRESS: 622 WEST 168TH STREET<br>CITY: NEW YORK<br>state: NY<br>ZIP: 10032<br>PHONE: 2123052204]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>17.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00016</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>622 WEST 168TH STREET</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>10032.0</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.123052204E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>OAK HILL HOSPITAL (INST.)</name>
+        <address>11375 CORTEZ BLVD RTE 50 BROOKSVILLE NY</address>
+        <description><![CDATA[ID: 18<br>CLIENT: 00017<br>ADDRESS: 11375 CORTEZ BLVD RTE 50<br>CITY: BROOKSVILLE<br>state: NY<br>ZIP: 34613<br>PHONE: 3525976363]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>18.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00017</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>11375 CORTEZ BLVD RTE 50</value>
+          </Data>
+          <Data name="CITY">
+            <value>BROOKSVILLE</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>34613.0</value>
+          </Data>
+          <Data name="PHONE">
+            <value>3.525976363E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>PSA SCREENING-SEPT. 2008</name>
+        <address>525 EAST 68TH STREET F940 NEW YORK NY</address>
+        <description><![CDATA[ID: 19<br>CLIENT: 00018<br>ADDRESS: 525 EAST 68TH STREET F940<br>CITY: NEW YORK<br>state: NY<br>ZIP: 10065<br>PHONE: 2127465491]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>19.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00018</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>525 EAST 68TH STREET F940</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>10065.0</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127465491E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>MOUNTAINSIDE HOSPITAL</name>
+        <description><![CDATA[ID: 20<br>CLIENT: 00019<br>ADDRESS: 1 BAY AVE., GROUND FLOOR<br>CITY: MONTCLAIR<br>state: NY<br>ZIP: 7042<br>PHONE: 9734296164]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>20.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00019</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1 BAY AVE., GROUND FLOOR</value>
+          </Data>
+          <Data name="CITY">
+            <value>MONTCLAIR</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>7042.0</value>
+          </Data>
+          <Data name="PHONE">
+            <value>9.734296164E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>INSTITUTIONAL ROTEM STUDY</name>
+        <address>530 EAST 70TH ST. M-321 NEW YORK NY</address>
+        <description><![CDATA[ID: 21<br>CLIENT: 00020<br>ADDRESS: 530 EAST 70TH ST. M-321<br>CITY: NEW YORK<br>state: NY<br>ZIP: 10065<br>PHONE: 2127462953]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>21.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00020</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>530 EAST 70TH ST. M-321</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>10065.0</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127462953E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>NY ASIAN FESTIVAL, INST.</name>
+        <address>62 W 168 ST. FL.14 RM.202 NEW YORK NY</address>
+        <description><![CDATA[ID: 22<br>CLIENT: 00021<br>ADDRESS: 62 W 168 ST. FL.14 RM.202<br>CITY: NEW YORK<br>state: NY<br>ZIP: 10032<br>PHONE: 2123050662]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>22.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00021</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>62 W 168 ST. FL.14 RM.202</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>10032.0</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.123050662E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ROGOSIN COMPOSITE,QUEENS</name>
+        <address>66-20 QUEENS BLVD WOODSIDE NY</address>
+        <description><![CDATA[ID: 23<br>CLIENT: 00030<br>ADDRESS: 66-20 QUEENS BLVD<br>CITY: WOODSIDE<br>state: NY<br>ZIP: 113770000<br>PHONE: 7184573000]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>23.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00030</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>66-20 QUEENS BLVD</value>
+          </Data>
+          <Data name="CITY">
+            <value>WOODSIDE</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.1377E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>7.184573E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ROGOSIN COMPOSITE  , 505</name>
+        <address>525      05 E 70TH STREET NEW YORK NY</address>
+        <description><![CDATA[ID: 24<br>CLIENT: 00031<br>ADDRESS: 525      05 E 70TH STREET<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127461578]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>24.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00031</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>525      05 E 70TH STREET</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127461578E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ROGOSIN COMPOSITE,BKLYN5</name>
+        <description><![CDATA[ID: 25<br>CLIENT: 00032<br>ADDRESS: 506 6TH STREET 7TH FLREET<br>CITY: BROOKLYN<br>state: NY<br>ZIP: 112150000<br>PHONE: 7182805800]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>25.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00032</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>506 6TH STREET 7TH FLREET</value>
+          </Data>
+          <Data name="CITY">
+            <value>BROOKLYN</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.1215E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>7.1828058E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>CITIBANK CORP HEALTH SERV</name>
+        <description><![CDATA[ID: 26<br>CLIENT: 00033<br>ADDRESS: 399 PARK AVENUE  A/11<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100220000<br>PHONE: 2125593951]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>26.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00033</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>399 PARK AVENUE  A/11</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0022E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.125593951E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>M.DESMOND BURKE MD ACCT</name>
+        <address>525 EAST 68TH ST F-715 NEW YORK NY</address>
+        <description><![CDATA[ID: 27<br>CLIENT: 00034<br>ADDRESS: 525 EAST 68TH ST F-715<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127462041]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>27.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00034</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>525 EAST 68TH ST F-715</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127462041E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ST.BARNABAS MED. CENTER</name>
+        <address>94 OLD SHORT HILLS ROAD LIVINGSTON NY</address>
+        <description><![CDATA[ID: 28<br>CLIENT: 00035<br>ADDRESS: 94 OLD SHORT HILLS ROAD<br>CITY: LIVINGSTON<br>state: NY<br>ZIP: 70390000<br>PHONE: 9733225705]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>28.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00035</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>94 OLD SHORT HILLS ROAD</value>
+          </Data>
+          <Data name="CITY">
+            <value>LIVINGSTON</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>7.039E7</value>
+          </Data>
+          <Data name="PHONE">
+            <value>9.733225705E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>MEADOWLANDS HOSPITAL M.C.</name>
+        <address>55 MEADOWLANDS PARKWAY SECAUCUS (PATH DEPT) NY</address>
+        <description><![CDATA[ID: 29<br>CLIENT: 00036<br>ADDRESS: 55 MEADOWLANDS PARKWAY<br>CITY: SECAUCUS (PATH DEPT)<br>state: NY<br>ZIP: 70960000<br>PHONE: 2013923153]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>29.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00036</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>55 MEADOWLANDS PARKWAY</value>
+          </Data>
+          <Data name="CITY">
+            <value>SECAUCUS (PATH DEPT)</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>7.096E7</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.013923153E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>GREENVILLE HOSPITAL</name>
+        <address>1825 KENNEDY BLVD. JERSEY CITY (PATH DEPT) NY</address>
+        <description><![CDATA[ID: 30<br>CLIENT: 00037<br>ADDRESS: 1825 KENNEDY BLVD.<br>CITY: JERSEY CITY (PATH DEPT)<br>state: NY<br>ZIP: 73050000<br>PHONE: 2015476162]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>30.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00037</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1825 KENNEDY BLVD.</value>
+          </Data>
+          <Data name="CITY">
+            <value>JERSEY CITY (PATH DEPT)</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>7.305E7</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.015476162E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>CHIEF MEDICAL EXAMINER</name>
+        <address>520 EAST 1ST AVENUE NEW YORK NY</address>
+        <description><![CDATA[ID: 31<br>CLIENT: 00038<br>ADDRESS: 520 EAST 1ST AVENUE<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100160000<br>PHONE: 2124472446]]></description>
+        <styleUrl>#icon-503-A61B4A</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>31.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00038</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>520 EAST 1ST AVENUE</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0016E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.124472446E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>HOSPITAL CENTER OF ORANGE</name>
+        <description><![CDATA[ID: 32<br>CLIENT: 00039<br>ADDRESS: 188 So Essex Ave. Lab Dep<br>CITY: ORANGE<br>state: NY<br>ZIP: 70510000<br>PHONE: 9732662157]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>32.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00039</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>188 So Essex Ave. Lab Dep</value>
+          </Data>
+          <Data name="CITY">
+            <value>ORANGE</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>7.051E7</value>
+          </Data>
+          <Data name="PHONE">
+            <value>9.732662157E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>NYC DEPT OF HEALTH</name>
+        <description><![CDATA[ID: 33<br>CLIENT: 00040<br>ADDRESS: 125 WORTH ST. RM300,CN22V<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100130000<br>PHONE: 2127460780]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>33.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00040</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>125 WORTH ST. RM300,CN22V</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0013E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.12746078E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>THAL SCREEN</name>
+        <address>525 E 68TH ST. P-695 NEW YORK NY</address>
+        <description><![CDATA[ID: 34<br>CLIENT: 00041<br>ADDRESS: 525 E 68TH ST. P-695<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127463400]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>34.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00041</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>525 E 68TH ST. P-695</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.1274634E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>EXECUTIVE PHYS. PROG.61st</name>
+        <address>425 E 61st ST. 11th FLOOR NEW YORK NY</address>
+        <description><![CDATA[ID: 35<br>CLIENT: 00042<br>ADDRESS: 425 E 61st ST. 11th FLOOR<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2128210922]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>35.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00042</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>425 E 61st ST. 11th FLOOR</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.128210922E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>EXECUTIVE PHYS. PROG.72nd</name>
+        <description><![CDATA[ID: 36<br>CLIENT: 00043<br>ADDRESS: 520 E. 72nd ST. 1st FLOOR<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127466943]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>36.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00043</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>520 E. 72nd ST. 1st FLOOR</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127466943E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>NEUROENDOCRINOLOGY LAB.</name>
+        <description><![CDATA[ID: 37<br>CLIENT: 00044<br>ADDRESS: 1230 YORK AVENUE, BOX 165<br>CITY: ROCKEFELLER UNIVERSITY<br>state: NY<br>ZIP: 100210000<br>PHONE: 2123278622]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>37.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00044</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1230 YORK AVENUE, BOX 165</value>
+          </Data>
+          <Data name="CITY">
+            <value>ROCKEFELLER UNIVERSITY</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.123278622E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>CROZER-CHESTER MED. CTR.</name>
+        <description><![CDATA[ID: 38<br>CLIENT: 00045<br>ADDRESS: 1 MEDICAL CTR. BLVD.<br>CITY: CHESTER<br>state: NY<br>ZIP: 190130000<br>PHONE: 6104472221]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>38.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00045</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1 MEDICAL CTR. BLVD.</value>
+          </Data>
+          <Data name="CITY">
+            <value>CHESTER</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.9013E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>6.104472221E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>EAST ORANGE GEN. HOSPITAL</name>
+        <address>300 CENTRAL AVENUE EAST ORANGE NY</address>
+        <description><![CDATA[ID: 39<br>CLIENT: 00046<br>ADDRESS: 300 CENTRAL AVENUE<br>CITY: EAST ORANGE<br>state: NY<br>ZIP: 70190000<br>PHONE: 9732664443]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>39.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00046</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>300 CENTRAL AVENUE</value>
+          </Data>
+          <Data name="CITY">
+            <value>EAST ORANGE</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>7.019E7</value>
+          </Data>
+          <Data name="PHONE">
+            <value>9.732664443E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ST. CRHISTOPHER'S HOSP.]]></name>
+        <address><![CDATA[Erie Ave & Front St R2211 PHILADELPHIA NY]]></address>
+        <description><![CDATA[ID: 40<br>CLIENT: 00047<br>ADDRESS: Erie Ave & Front St R2211<br>CITY: PHILADELPHIA<br>state: NY<br>ZIP: 191340000<br>PHONE: 2154275550]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>40.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00047</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value><![CDATA[Erie Ave & Front St R2211]]></value>
+          </Data>
+          <Data name="CITY">
+            <value>PHILADELPHIA</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.9134E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.15427555E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>BUCHMAN, MYRON INST ACCT.</name>
+        <description><![CDATA[ID: 41<br>CLIENT: 00048<br>ADDRESS: 117 EAST 72nd STREET<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2128611950]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>41.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00048</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>117 EAST 72nd STREET</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.12861195E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[OMEGA PATH & DIAG. CORP.]]></name>
+        <address>1600  BROAD STREET UTICA NY</address>
+        <description><![CDATA[ID: 42<br>CLIENT: 00049<br>ADDRESS: 1600  BROAD STREET<br>CITY: UTICA<br>state: NY<br>ZIP: 135010000<br>PHONE: 3157938970]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>42.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00049</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1600  BROAD STREET</value>
+          </Data>
+          <Data name="CITY">
+            <value>UTICA</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.3501E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>3.15793897E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>EXEC. REGISTRY INS. ACCT.</name>
+        <address>425 E. 61st ST. 6th FLOOR NEW YORK NY</address>
+        <description><![CDATA[ID: 43<br>CLIENT: 00050<br>ADDRESS: 425 E. 61st ST. 6th FLOOR<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127522000]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>43.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00050</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>425 E. 61st ST. 6th FLOOR</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127522E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>DECADE COMMUNITY HEALTH</name>
+        <description><![CDATA[ID: 44<br>CLIENT: 00051<br>ADDRESS: 36-11 21 ST. LIC PRACTICE<br>CITY: LONG ISLAND CITY<br>state: NY<br>ZIP: 111060000<br>PHONE: 7184827772]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>44.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00051</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>36-11 21 ST. LIC PRACTICE</value>
+          </Data>
+          <Data name="CITY">
+            <value>LONG ISLAND CITY</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.1106E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>7.184827772E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>CTR FOR SPECIALTY CARE</name>
+        <address>50 EAST 69th STREET NEW YORK NY</address>
+        <description><![CDATA[ID: 45<br>CLIENT: 00052<br>ADDRESS: 50 EAST 69th STREET<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2122498000]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>45.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00052</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>50 EAST 69th STREET</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.122498E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>WRIGHT CENTER INSTITUTE</name>
+        <description><![CDATA[ID: 46<br>CLIENT: 00053<br>ADDRESS: 1484-1486 1st AVENUE<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127467000]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>46.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00053</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1484-1486 1st AVENUE</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127467E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>GOOD SAMARITAN HOSPITAL</name>
+        <address>2222 PHILADELPHIA DR. DAYTON NY</address>
+        <description><![CDATA[ID: 47<br>CLIENT: 00054<br>ADDRESS: 2222 PHILADELPHIA DR.<br>CITY: DAYTON<br>state: NY<br>ZIP: 454060000<br>PHONE: 9372782612]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>47.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00054</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>2222 PHILADELPHIA DR.</value>
+          </Data>
+          <Data name="CITY">
+            <value>DAYTON</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>4.5406E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>9.372782612E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>MEDICAL HAIR RESTORATION</name>
+        <address>150 CENTRAL PARK SO., 2F NEW YORK NY</address>
+        <description><![CDATA[ID: 48<br>CLIENT: 00055<br>ADDRESS: 150 CENTRAL PARK SO., 2F<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100190000<br>PHONE: 2125818265]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>48.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00055</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>150 CENTRAL PARK SO., 2F</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0019E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.125818265E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>RIDDLE MEMORIAL</name>
+        <description><![CDATA[ID: 49<br>CLIENT: 00056<br>ADDRESS: 1068 W. BALTIMORE PIKE<br>CITY: MEDIA<br>state: NY<br>ZIP: 190630000<br>PHONE: 6108913301]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>49.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00056</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1068 W. BALTIMORE PIKE</value>
+          </Data>
+          <Data name="CITY">
+            <value>MEDIA</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.9063E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>6.108913301E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>NY BLOOD CTR MICRO QC/REF</name>
+        <description><![CDATA[ID: 50<br>CLIENT: 00057<br>ADDRESS: 45-01 VERNON BLVD.<br>CITY: LONG ISLAND CITY<br>state: NY<br>ZIP: 111010000<br>PHONE: 7187524748]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>50.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00057</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>45-01 VERNON BLVD.</value>
+          </Data>
+          <Data name="CITY">
+            <value>LONG ISLAND CITY</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.1101E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>7.187524748E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>COMP. WT. CRTL. PROG.</name>
+        <address>1165 YORK AVENUE NEW YORK NY</address>
+        <description><![CDATA[ID: 52<br>CLIENT: 00059<br>ADDRESS: 1165 YORK AVENUE<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127461872]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>52.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00059</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1165 YORK AVENUE</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127461872E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ADULT METH INST BLOOD ACC</name>
+        <description><![CDATA[ID: 53<br>CLIENT: 00060<br>ADDRESS: 503 EAST 70th STREET HT-1<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127466743]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>53.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00060</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>503 EAST 70th STREET HT-1</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127466743E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ADOLESCENT METH. TOX SCR.</name>
+        <address>401 EAST 71st STREET NEW YORK NY</address>
+        <description><![CDATA[ID: 54<br>CLIENT: 00061<br>ADDRESS: 401 EAST 71st STREET<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2129885881]]></description>
+        <styleUrl>#icon-503-C6A4CF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>54.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00061</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>401 EAST 71st STREET</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.129885881E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ADOLES. METH INST BLD ACC</name>
+        <address>401 EAST 71st STREET NEW YORK NY</address>
+        <description><![CDATA[ID: 55<br>CLIENT: 00062<br>ADDRESS: 401 EAST 71st STREET<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2129885881]]></description>
+        <styleUrl>#icon-503-0BA9CC</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>55.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00062</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>401 EAST 71st STREET</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.129885881E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>CELLULAR THERAPY LAB N/C</name>
+        <address>525 E 68TH ST L-307 NEW YORK NY</address>
+        <description><![CDATA[ID: 56<br>CLIENT: 00063<br>ADDRESS: 525 E 68TH ST L-307<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127466729]]></description>
+        <styleUrl>#icon-503-F4B400</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>56.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00063</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>525 E 68TH ST L-307</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127466729E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>HACKETTSTOWN REGIONAL MC</name>
+        <address>651 WILLOW GROVE ST. HACKETTSTOWN NY</address>
+        <description><![CDATA[ID: 57<br>CLIENT: 00064<br>ADDRESS: 651 WILLOW GROVE ST.<br>CITY: HACKETTSTOWN<br>state: NY<br>ZIP: 78400000<br>PHONE: 9088506949]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>57.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00064</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>651 WILLOW GROVE ST.</value>
+          </Data>
+          <Data name="CITY">
+            <value>HACKETTSTOWN</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>7.84E7</value>
+          </Data>
+          <Data name="PHONE">
+            <value>9.088506949E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>COLUMBIA UNIV. NEURO</name>
+        <description><![CDATA[ID: 58<br>CLIENT: 00065<br>ADDRESS: 710 W 168TH ST.NI162<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100320000<br>PHONE: 2123051710]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>58.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00065</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>710 W 168TH ST.NI162</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0032E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.12305171E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>RENCA ACCOUNT</name>
+        <description><![CDATA[ID: 59<br>CLIENT: 00066<br>ADDRESS: 505 E 70th ST., HT-230<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127461551]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>59.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00066</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>505 E 70th ST., HT-230</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127461551E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>BROOKHAVEN MEMORIAL HOSP.</name>
+        <address>101 HOSPITAL ROAD PATCHOGUE NY</address>
+        <description><![CDATA[ID: 60<br>CLIENT: 00067<br>ADDRESS: 101 HOSPITAL ROAD<br>CITY: PATCHOGUE<br>state: NY<br>ZIP: 117720000<br>PHONE: 6316547163]]></description>
+        <styleUrl>#icon-503-EE9C96</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>60.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00067</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>101 HOSPITAL ROAD</value>
+          </Data>
+          <Data name="CITY">
+            <value>PATCHOGUE</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.1772E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>6.316547163E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SADICK RESEARCH GROUP</name>
+        <address>772 PARK AVENUE NEW YORK NY</address>
+        <description><![CDATA[ID: 61<br>CLIENT: 00068<br>ADDRESS: 772 PARK AVENUE<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127727242]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>61.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00068</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>772 PARK AVENUE</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127727242E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TULANE UNIV.PATH.DEP SL79</name>
+        <description><![CDATA[ID: 62<br>CLIENT: 00069<br>ADDRESS: 1430 TULANE AVE. RM-6519<br>CITY: NE ORLEANS<br>state: NY<br>ZIP: 701120000<br>PHONE: 5049881170]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>62.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00069</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1430 TULANE AVE. RM-6519</value>
+          </Data>
+          <Data name="CITY">
+            <value>NE ORLEANS</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>7.0112E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>5.04988117E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>PFIZER A7081004-1003</name>
+        <description><![CDATA[ID: 63<br>CLIENT: 00070<br>ADDRESS: 1165 YORK AVE.COMP.WT.CTR<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2125831000]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>63.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00070</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1165 YORK AVE.COMP.WT.CTR</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.125831E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>NYPH QUEENS, MICROBIOLOGY</name>
+        <description><![CDATA[ID: 64<br>CLIENT: 00071<br>ADDRESS: 56-45 MAIN ST. ROOM A149C<br>CITY: FLUSHING<br>state: NY<br>ZIP: 113550000<br>PHONE: 7186701455]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>64.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00071</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>56-45 MAIN ST. ROOM A149C</value>
+          </Data>
+          <Data name="CITY">
+            <value>FLUSHING</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.1355E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>7.186701455E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>MORTON PLANT HOSPITAL</name>
+        <address>300 PINELLAS STREET CLEARWATER NY</address>
+        <description><![CDATA[ID: 65<br>CLIENT: 00072<br>ADDRESS: 300 PINELLAS STREET<br>CITY: CLEARWATER<br>state: NY<br>ZIP: 337560000<br>PHONE: 7274618256]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>65.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00072</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>300 PINELLAS STREET</value>
+          </Data>
+          <Data name="CITY">
+            <value>CLEARWATER</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>3.3756E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>7.274618256E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>CORNELL MED ASSOC. 80 st</name>
+        <address>201 E 80 STREET NEW YORK NY</address>
+        <description><![CDATA[ID: 66<br>CLIENT: 00080<br>ADDRESS: 201 E 80 STREET<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100280000<br>PHONE: 2127467300]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>66.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00080</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>201 E 80 STREET</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0028E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.1274673E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>URINARY MARKER STUDY</name>
+        <description><![CDATA[ID: 67<br>CLIENT: 00098<br>ADDRESS: 525 E 68TH ST.B24 BOX 566<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127464180]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>67.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00098</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>525 E 68TH ST.B24 BOX 566</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.12746418E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>NEIGHBORHOOD STUDY</name>
+        <description><![CDATA[ID: 68<br>CLIENT: 00099<br>ADDRESS: 525 E 68TH ST.,BOX 159<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127462153]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>68.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00099</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>525 E 68TH ST.,BOX 159</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127462153E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ROGOSIN GEN.RESEARCH ACCT</name>
+        <address>1167 YORK AVE. NEW YORK(LIPID CRTL CTR) NY</address>
+        <description><![CDATA[ID: 69<br>CLIENT: 00100<br>ADDRESS: 1167 YORK AVE.<br>CITY: NEW YORK(LIPID CRTL CTR)<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127029600]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>69.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00100</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1167 YORK AVE.</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK(LIPID CRTL CTR)</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.1270296E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>AMSTERDAM NURSING HOME</name>
+        <address>1060 AMSTERDAM AVE. NEW YORK NY</address>
+        <description><![CDATA[ID: 70<br>CLIENT: 00101<br>ADDRESS: 1060 AMSTERDAM AVE.<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100250000<br>PHONE: 2126782600]]></description>
+        <styleUrl>#icon-503-93D7E8</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>70.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00101</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1060 AMSTERDAM AVE.</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0025E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.1267826E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>BURKE REHAB. HOSPITAL</name>
+        <address>785 MAMARONECK AVE. WHITE PLAINS NY</address>
+        <description><![CDATA[ID: 71<br>CLIENT: 00102<br>ADDRESS: 785 MAMARONECK AVE.<br>CITY: WHITE PLAINS<br>state: NY<br>ZIP: 106050000<br>PHONE: 9149480050]]></description>
+        <styleUrl>#icon-503-E6EEA3</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>71.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00102</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>785 MAMARONECK AVE.</value>
+          </Data>
+          <Data name="CITY">
+            <value>WHITE PLAINS</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0605E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>9.14948005E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>CORPORATE CARE SYSTEM</name>
+        <address>525 E. 68 ST. BOX 114 NEW YORK NY</address>
+        <description><![CDATA[ID: 72<br>CLIENT: 00103<br>ADDRESS: 525 E. 68 ST. BOX 114<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2124725412]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>72.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00103</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>525 E. 68 ST. BOX 114</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.124725412E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ANIMAL TESTING SERVICE</name>
+        <address>1300 YORK AVE. A-731 NEW YORK NY</address>
+        <description><![CDATA[ID: 73<br>CLIENT: 00104<br>ADDRESS: 1300 YORK AVE. A-731<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127461025]]></description>
+        <styleUrl>#icon-503-B29189</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>73.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00104</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1300 YORK AVE. A-731</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127461025E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>GORDON RESEARCH DILANTIN</name>
+        <description><![CDATA[ID: 74<br>CLIENT: 00105<br>ADDRESS: 505 E. 70 ST. HT-230<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127461495]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>74.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00105</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>505 E. 70 ST. HT-230</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127461495E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>H.S.S. ANC. SVCS. 1990</name>
+        <address>535 E. 70 ST. NEW YORK NY</address>
+        <description><![CDATA[ID: 75<br>CLIENT: 00106<br>ADDRESS: 535 E. 70 ST.<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2126061348]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>75.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00106</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>535 E. 70 ST.</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.126061348E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>M2 DIALYSIS</name>
+        <address>525 EAST 68TH ST. M-2 NEW YORK NY</address>
+        <description><![CDATA[ID: 76<br>CLIENT: 00107<br>ADDRESS: 525 EAST 68TH ST. M-2<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127463096]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>76.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00107</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>525 EAST 68TH ST. M-2</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127463096E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SWEAT CHLORIDES STUDY</name>
+        <address>525 EAST 68TH ST ST-505 NEW YORK NY</address>
+        <description><![CDATA[ID: 77<br>CLIENT: 00108<br>ADDRESS: 525 EAST 68TH ST ST-505<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127462264]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>77.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00108</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>525 EAST 68TH ST ST-505</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127462264E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>EMBREL CENTER HEART STUDY</name>
+        <address>525 EAST 68TH ST F-467 NEW YORK NY</address>
+        <description><![CDATA[ID: 78<br>CLIENT: 00109<br>ADDRESS: 525 EAST 68TH ST F-467<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127462109]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>78.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00109</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>525 EAST 68TH ST F-467</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127462109E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>IVF DONOR ACCT</name>
+        <description><![CDATA[ID: 79<br>CLIENT: 00110<br>ADDRESS: 1305 YORK AVENUE, 6th FL.<br>CITY: NY ATT:CATHERINE LEVENS<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127461762]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>79.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00110</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1305 YORK AVENUE, 6th FL.</value>
+          </Data>
+          <Data name="CITY">
+            <value>NY ATT:CATHERINE LEVENS</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127461762E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>INTERNATIONAL HEALTH CARE</name>
+        <address>450 E. 69 ST. NEW YORK NY</address>
+        <description><![CDATA[ID: 80<br>CLIENT: 00111<br>ADDRESS: 450 E. 69 ST.<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127461601]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>80.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00111</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>450 E. 69 ST.</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127461601E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>LAB STUDY, DR. D. LEVINE</name>
+        <description><![CDATA[ID: 81<br>CLIENT: 00112<br>ADDRESS: ROCKE UNIV SMITH HALL A14<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2123277130]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>81.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00112</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>ROCKE UNIV SMITH HALL A14</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.12327713E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[MANHATTAN EYE EAR & THR]]></name>
+        <description><![CDATA[ID: 82<br>CLIENT: 00113<br>ADDRESS: 210 E 64TH ST. 1ST FL.LAB<br>CITY: NEW YORK   EXT 2445<br>state: NY<br>ZIP: 100210000<br>PHONE: 2128389200]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>82.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00113</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>210 E 64TH ST. 1ST FL.LAB</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK   EXT 2445</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.1283892E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>MEMORIAL HOSPITAL</name>
+        <address>1275 YORK AVE. NEW YORK NY</address>
+        <description><![CDATA[ID: 83<br>CLIENT: 00114<br>ADDRESS: 1275 YORK AVE.<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2126396023]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>83.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00114</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1275 YORK AVE.</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.126396023E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>HEALTHNET EMPIRE BC-BS</name>
+        <description><![CDATA[ID: 84<br>CLIENT: 00115<br>ADDRESS: P.O. BOX 11806<br>CITY: ALBANY<br>state: NY<br>ZIP: 122110000<br>PHONE: 8005526630]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>84.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00115</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>P.O. BOX 11806</value>
+          </Data>
+          <Data name="CITY">
+            <value>ALBANY</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.2211E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>8.00552663E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>NYH ORGAN PRES. UNIT</name>
+        <address>525 E. 68 ST. ROOM M-507 NEW YORK NY</address>
+        <description><![CDATA[ID: 85<br>CLIENT: 00116<br>ADDRESS: 525 E. 68 ST. ROOM M-507<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127461982]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>85.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00116</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>525 E. 68 ST. ROOM M-507</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127461982E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>NYHQ-EMPLOYEE HLTH. SVCE.</name>
+        <address>56-45 MAIN ST. FLUSHING NY</address>
+        <description><![CDATA[ID: 86<br>CLIENT: 00117<br>ADDRESS: 56-45 MAIN ST.<br>CITY: FLUSHING<br>state: NY<br>ZIP: 113555095<br>PHONE: 7186701280]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>86.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00117</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>56-45 MAIN ST.</value>
+          </Data>
+          <Data name="CITY">
+            <value>FLUSHING</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.13555095E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>7.18670128E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>OCCUPATIONAL HEALTH SVCE.</name>
+        <description><![CDATA[ID: 87<br>CLIENT: 00118<br>ADDRESS: 525 E. 68 ST. SM-1A01<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127464370]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>87.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00118</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>525 E. 68 ST. SM-1A01</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.12746437E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>NYHQ-OUTREACH LABORATORY</name>
+        <address>56-45 MAIN ST. FLUSHING NY</address>
+        <description><![CDATA[ID: 88<br>CLIENT: 00119<br>ADDRESS: 56-45 MAIN ST.<br>CITY: FLUSHING<br>state: NY<br>ZIP: 113550000<br>PHONE: 7186701282]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>88.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00119</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>56-45 MAIN ST.</value>
+          </Data>
+          <Data name="CITY">
+            <value>FLUSHING</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.1355E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>7.186701282E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>OXFORD HEALTH PLAN</name>
+        <description><![CDATA[ID: 89<br>CLIENT: 00120<br>ADDRESS: P.O. BOX 5032<br>CITY: NORWALK<br>state: NY<br>ZIP: 68560000<br>PHONE: 8004446222]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>89.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00120</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>P.O. BOX 5032</value>
+          </Data>
+          <Data name="CITY">
+            <value>NORWALK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>6.856E7</value>
+          </Data>
+          <Data name="PHONE">
+            <value>8.004446222E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ROCKEFELLER U. RES. ACCT.</name>
+        <address>1230 YORK AVE, BOX 309 NEW YORK NY</address>
+        <description><![CDATA[ID: 90<br>CLIENT: 00121<br>ADDRESS: 1230 YORK AVE, BOX 309<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2123277490]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>90.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00121</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>1230 YORK AVE, BOX 309</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.12327749E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>IMMUNOPATHOLOGY LAB</name>
+        <address>525 E. 68 ST. STARR-715 NEW YORK NY</address>
+        <description><![CDATA[ID: 91<br>CLIENT: 00122<br>ADDRESS: 525 E. 68 ST. STARR-715<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127462442]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>91.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00122</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>525 E. 68 ST. STARR-715</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127462442E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ROGOSIN HOME CAPD</name>
+        <description><![CDATA[ID: 92<br>CLIENT: 00123<br>ADDRESS: 505 E. 70 ST. HT-214<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127461567]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>92.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00123</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>505 E. 70 ST. HT-214</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127461567E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ROGOSIN INSTITUTE</name>
+        <address>504-506 E 74TH STREET NEW YORK NY</address>
+        <description><![CDATA[ID: 93<br>CLIENT: 00124<br>ADDRESS: 504-506 E 74TH STREET<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2122491193]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>93.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00124</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>504-506 E 74TH STREET</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.122491193E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ROGOSIN INCENTER ACCOUNT</name>
+        <description><![CDATA[ID: 94<br>CLIENT: 00125<br>ADDRESS: 505 E. 70 ST. HT-2<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127461566]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>94.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00125</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>505 E. 70 ST. HT-2</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127461566E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ROGOSIN KIDNEY,DR. RIGGIO</name>
+        <description><![CDATA[ID: 95<br>CLIENT: 00126<br>ADDRESS: 515 E. 72 ST. GROUND FL.<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2125351120]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>95.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00126</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>515 E. 72 ST. GROUND FL.</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.12535112E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ROGOSIN HOME HEMODIALYSIS</name>
+        <description><![CDATA[ID: 96<br>CLIENT: 00127<br>ADDRESS: 505 E. 70 ST. HT-2<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127461568]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>96.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00127</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>505 E. 70 ST. HT-2</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127461568E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>SBCL -REFERRAL TESTING</name>
+        <address>575 UNDERHILL BOULEVARD SYOSSET NY</address>
+        <description><![CDATA[ID: 97<br>CLIENT: 00128<br>ADDRESS: 575 UNDERHILL BOULEVARD<br>CITY: SYOSSET<br>state: NY<br>ZIP: 117910000<br>PHONE: 8008777530]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>97.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00128</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>575 UNDERHILL BOULEVARD</value>
+          </Data>
+          <Data name="CITY">
+            <value>SYOSSET</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.1791E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>8.00877753E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ST. JAMES HOSPITAL</name>
+        <description><![CDATA[ID: 98<br>CLIENT: 00129<br>ADDRESS: 155 JEFFERSON ST.PATH<br>CITY: NEWARK<br>state: NY<br>ZIP: 75100000<br>PHONE: 9734652783]]></description>
+        <ExtendedData>
+          <Data name="ID">
+            <value>98.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00129</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>155 JEFFERSON ST.PATH</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEWARK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>7.51E7</value>
+          </Data>
+          <Data name="PHONE">
+            <value>9.734652783E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>N.Y. DOWNTOWN HOSP. LAB</name>
+        <address>170 WILLIAM ST. NEW YORK NY</address>
+        <description><![CDATA[ID: 99<br>CLIENT: 00130<br>ADDRESS: 170 WILLIAM ST.<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100380000<br>PHONE: 2123125000]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>99.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00130</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>170 WILLIAM ST.</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0038E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.123125E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>DR.NATHAN/ACCT 622204</name>
+        <address>525 E 68TH ST. A-225 NEW YORK NY</address>
+        <description><![CDATA[ID: 100<br>CLIENT: 00131<br>ADDRESS: 525 E 68TH ST. A-225<br>CITY: NEW YORK<br>state: NY<br>ZIP: 100210000<br>PHONE: 2127462985]]></description>
+        <styleUrl>#icon-503-FFFFFF</styleUrl>
+        <ExtendedData>
+          <Data name="ID">
+            <value>100.0</value>
+          </Data>
+          <Data name="CLIENT">
+            <value>00131</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>525 E 68TH ST. A-225</value>
+          </Data>
+          <Data name="CITY">
+            <value>NEW YORK</value>
+          </Data>
+          <Data name="state">
+            <value>NY</value>
+          </Data>
+          <Data name="ZIP">
+            <value>1.0021E8</value>
+          </Data>
+          <Data name="PHONE">
+            <value>2.127462985E9</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+    </Folder>
+  </Document>
+</kml>
